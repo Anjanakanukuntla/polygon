@@ -1,0 +1,28 @@
+#polygon {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  #polygon h1 {
+    text-align: center;
+  }
+  
+  #polygon ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #polygon li {
+    margin-bottom: 10px;
+  }
+  
+  #polygon a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  #polygon a:hover {
+    text-decoration: underline;
+  }
